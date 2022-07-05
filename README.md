@@ -1,2 +1,3 @@
 maven-examples
 ==============
+* test
